@@ -15,4 +15,4 @@ What is a pull request and how do you create and merge one?
 Pull request notify people about alterations you have pushed in the repositry. If a pull request is sent out, people can look at the changes made to discuss the best way to proceed.
 You create and merge a pull request from the GitHub website. You clock pull request and then once the request is granted it allows you to merge the branches.
 Why are pull requests preferred when working with teams?
-Pull requests are great tools for reviewing somone elses code. If they are typing code for a new project development, you can get some eyes on their code to critique.
+Pull requests are great tools for reviewing somone elses code. If they are typing code for a new project development, you can get some eyes on their code to critique!

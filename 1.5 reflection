@@ -1,0 +1,18 @@
+
+How does tracking and adding changes make developers' lives easier?
+Tracking and adding changes lets developers know who made changes to a document. It also shows your co-workers who made the changes and why they made them.
+What is a commit?
+Commits are like checkpoints in a video game. It allows you to revert back to a checkpoint on the document.
+What are the best practices for commit messages?
+The best practice for commit messages is to write in present tense. One of the articles I read puts it best by saying the commit message should read "The commit message records what I have done"
+What does the HEAD^ argument mean?
+If a user commits files and decides that they want to alter them again, they can use th HEAD command. HEAD can shift back to previous commits to allow a devloper to backtrack on their work.
+What are the 3 stages of a git change and how do you move a file from one stage to the other?
+The three stages of changes are the Pull, Merge and the Push. The pull is to ensure that you dont have different versions of your repository locally and remotely. The Merge will apply your changes from whatever branch you were working on back to master. Finally the Push is to copy your branch to Git-hub.
+Write a handy cheatsheet of the commands you need to commit your changes?
+Git add, Git commit and Git push are some of the commands I used most.
+What is a pull request and how do you create and merge one?
+Pull request notify people about alterations you have pushed in the repositry. If a pull request is sent out, people can look at the changes made to discuss the best way to proceed.
+You create and merge a pull request from the GitHub website. You clock pull request and then once the request is granted it allows you to merge the branches.
+Why are pull requests preferred when working with teams?
+Pull requests are great tools for reviewing somone elses code. If they are typing code for a new project development, you can get some eyes on their code to critique!

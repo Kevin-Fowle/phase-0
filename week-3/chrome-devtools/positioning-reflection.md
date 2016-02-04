@@ -1,12 +1,12 @@
-![picture1](phase-0/week-3/chrome-devtools/imgs/cdt1.png)
-![picture2](phase-0/week-3/chrome-devtools/imgs/cdt2.png)
-![picture3](phase-0/week-3/chrome-devtools/imgs/cdt3.png)
-![picture4](phase-0/week-3/chrome-devtools/imgs/cdt4.png)
-![picture5](phase-0/week-3/chrome-devtools/imgs/cdt5.png)
-![picture6](phase-0/week-3/chrome-devtools/imgs/cdt6.png)
-![picture7](phase-0/week-3/chrome-devtools/imgs/cdt7.png)
-![picture8](phase-0/week-3/chrome-devtools/imgs/cdt8.png)
-![picture9](phase-0/week-3/chrome-devtools/imgs/cdt9.png)
+[pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt1.png)
+[picture2]([pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt2.png)
+[picture3]([pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt3.png)
+[pic4](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt4.png)
+[picture5](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt5.png)
+[picture6](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt6.png)
+[picture7](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt7.png)
+[picture8](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt8.png)
+[picture9](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt9.png)
 
 Chrome Dev tools let's you play around with your code to see if it plays out like it should. It's nice because you can use trial and error a whole lot fast than typing stuff in and checking it manually.
 

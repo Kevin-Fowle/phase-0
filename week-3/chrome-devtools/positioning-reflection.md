@@ -1,6 +1,6 @@
 [pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt1.png)
-[picture2]([pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt2.png)
-[picture3]([pic1](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt3.png)
+[picture2](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt2.png)
+[picture3](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt3.png)
 [pic4](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt4.png)
 [picture5](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt5.png)
 [picture6](https://github.com/Kevin-Fowle/phase-0/blob/master/week-3/chrome-devtools/imgs/cdt6.png)

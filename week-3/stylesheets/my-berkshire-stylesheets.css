@@ -1,0 +1,68 @@
+*{
+  color: #000080;
+}
+
+a{
+  color: #800080;
+}
+
+a:visited{
+  color: #ff0000;
+}
+
+body{
+  background-color: #ffffff;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+}
+
+
+h3 {
+  display: block;
+  text-align: center;
+}
+
+h3.official{
+  display: block;
+  text-align: center;
+}
+
+span{
+  font-size: 30px;
+}
+
+div.geico{
+  text-align: center;
+  display: block;
+  font-size: 12px;
+}
+
+div.line{
+  width: 100%;
+  height: 2px;
+  background: #000080;
+}
+
+/*
+You need to remember to use all of the correct html tags. Also you need to remember the file name that is on your computer. The commands link rel, type and stylesheet are the tags that you MUST know. The link rel tag tells the computer what the file is. The type tells it what programming language it's in. Finally, the stylesheet is the exact file name of the stylesheet.
+
+One of the tricks my pair and I used was the display:block; css tag. It really helped us out when we were trying to make the text centered and stack on top of each other. We used it on the title and on the Geico portion of the website.
+
+The most frequent tags we used was font-size and color. When we were working with the link we used a and a:visited to changed how the links displayed.
+
+We ended up changing a lot of our original HTML. We ran into a few instances where we needed to use more divs or spans to help us make the page look better. We also needed to make some new classes to help out our formatting process.
+
+Our code ended up being a little wonky, but it looked similar enough to the actual website. Their code was done a little differently. Some of the HTML elements on their code had inline styling. Their code read out a little better, but we used the power of a css stylesheet for all of our formatting needs.
+*/
+
+
+
+
+
+
+

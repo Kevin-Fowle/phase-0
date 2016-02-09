@@ -1,0 +1,43 @@
+
+header{
+    /* width: 300px; */
+    padding: 25px;
+    background-color: lightblue;
+    margin: 25px;
+    text-align: center;
+}
+
+footer {
+    background-color: lightblue;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow:hidden;
+    text-align: center;
+}
+
+
+.column-1{
+  float: left;
+  width: 45%;
+  padding-left: 30px;
+
+}
+
+.column-2{
+  float: right;
+  width: 38%
+
+}
+
+details {
+display:block;
+overflow:auto;
+max-height:340px;
+font-size:12px;
+width:435px;
+padding:10px;
+background:#E0E0E0;
+margin:2em 0;
+}
